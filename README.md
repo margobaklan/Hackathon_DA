@@ -1,9 +1,9 @@
-<h2>Завдання для університетського хакатону з Дата Аналітики</h2>
-<h3>1. Побудова інформаційної панелі </h3>
-Репорт по аналізу даних можна переглянути в report.pdf, сама інформаційна панель була виконана в Tableau, переглянути можна за посиланням: <a href="https://public.tableau.com/views/Hackathon_DA/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank">Dashboard</a> 
-<h3>2. Python та SQL</h3>
-Схема бази даних - diagram.png
+<h2>SP FIT x Genesis Data analysis Hackathon</h2>
+<h3>1. Bulding an info panel </h3>
+The data analysis report can be viewed in report.pdf, the dashboard itself was made in Tableau, you can view it here: <a href="https://public.tableau.com/views/Hackathon_DA/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank">Dashboard</a> 
+<h3>2. Python and SQL</h3>
+Scheme of the database - diagram.png
 <br>
-База даних - data/pizza_sales/pizza_sales.db
+Database - data/pizza_sales/pizza_sales.db
 <br>
-Відповіді на питання та Python-скрипт - Hackathon.ipynb
+Answers to questions and a Python-script - Hackathon.ipynb
